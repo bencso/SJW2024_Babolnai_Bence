@@ -6,6 +6,10 @@
     --white: #fff;
 }
 
+h1 , footer , thead , h2{
+    font-family: "Marhey", sans-serif;
+}
+
 .fejlec{
     background-image: url('../img/balaton_bg.jpg');
     height: 400px;
@@ -35,12 +39,37 @@ nav{
     
 }
 
-h1 , footer , thead , h2{
-    font-family: "Marhey", sans-serif;
-}
-
 table .lightblue{
     background-color: var(--lblue);
+}
+
+
+th{
+    padding: 10px;
+}
+
+tr{
+    border-bottom: #06435f 1px solid;
+}
+
+table{
+    padding: 10px;
+    background-color: rgba(18, 132, 185, 0.1);
+}
+
+tr:hover {background-color: rgba(18, 132, 185, 0.7);}
+
+table .darkblue{
+    background-color: var(--dblue);
+    
+}
+ 
+td[scope]{
+    padding: 10px;
+    font-weight: bold;
+    font-variant: small-caps;
+    width: 25%;
+    
 }
 
 .img-thumbnail{
