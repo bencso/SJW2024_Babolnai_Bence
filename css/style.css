@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=swap');
+
+:root{
+    --lblue: #1283b9;
+    --dblue: #06435f;
+    --white: #fff;
+}
+
+.fejlec{
+    background-image: url('../img/balaton_bg.jpg');
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fejlec h1{
+    font-size: 3rem;
+    letter-spacing:3px;
+    text-shadow: 5px 5px 10px black;
+}
+
+h2{
+    color: var(--lblue);
+    font-variant: small-caps;
+    text-decoration: var(--lblue) wavy underline;
+}
+
+nav{
+    background-color: var(--dblue);
+}
+
+.nav-item:hover{
+    background-color: rgb(255, 255, 255,0.8);
+    
+}
+
+h1 , footer , thead , h2{
+    font-family: "Marhey", sans-serif;
+}
+
+table .lightblue{
+    background-color: var(--lblue);
+}
+
+.img-thumbnail{
+    box-shadow: 1px 1px 3px var(--dblue);
+}
+
+@media only screen and (max-width: 992px) {
+    .fejlec h1{
+        font-size: 1.5rem;
+    }
+  }
