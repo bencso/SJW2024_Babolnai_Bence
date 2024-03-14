@@ -72,6 +72,13 @@ td[scope]{
     
 }
 
+footer h1{
+    font-size: 1.5rem;
+    letter-spacing:3px;
+    text-shadow: 5px 5px 10px black;
+   
+}
+
 .img-thumbnail{
     box-shadow: 1px 1px 3px var(--dblue);
 }
