@@ -10,4 +10,4 @@ It's an incomplete code, but it got me to the final of the competition. <br>
 <i>Ez egy hiányos kód, de bejutottam vele a verseny döntőjébe.</i>
 
 
-<a href="">The competition page at the time/Az akkori versenyoldal</a>
+<a href="https://skillsit.hu/skills-junior-2024-webfejleszto/">The competition page at the time/Az akkori versenyoldal</a>
