@@ -6,5 +6,5 @@ This repository was created for the second round of the Skills Junior 2024 web d
 
 ###
 
-It was an unfinished business, but I made it to the final anyway <br>
-<i>Ez egy befejezetlen ügy volt, de így is bejutottam a döntőbe.</i>
+It's an incomplete code, but it got me to the final of the competition. <br>
+<i>Ez egy hiányos kód, de bejutottam vele a verseny döntőjébe.</i>
