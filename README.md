@@ -8,3 +8,6 @@ This repository was created for the second round of the Skills Junior 2024 web d
 
 It's an incomplete code, but it got me to the final of the competition. <br>
 <i>Ez egy hiányos kód, de bejutottam vele a verseny döntőjébe.</i>
+
+
+<a href="">The competition page at the time/Az akkori versenyoldal</a>
